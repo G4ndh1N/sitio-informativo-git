@@ -1,0 +1,6 @@
+Objetivo: Demostrar lo aprendido con los comandos de git (gitBash)
+Publico: Cualquier tipo de publico
+Tres características: 
+- Control de versiones
+- Inicialización con git
+- Creación de ramas
